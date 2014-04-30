@@ -12,6 +12,8 @@ public class TestEqual {
 		System.out.println("qwe" == "qwe");
 		System.out.println(a == "qwe");
 		System.out.println(b == "qwe");
+		
+		
 	}
 
 }
